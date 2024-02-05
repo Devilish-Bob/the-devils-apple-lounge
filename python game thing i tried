@@ -1,0 +1,6 @@
+print ("would you like to go on an adventure? print Yes or No")
+answer_1 = input()
+if answer = int(Yes):
+    print ("great! more coming soon!")
+else:
+    print ("you died due to a dragon attack, caught unawares. restart.")
